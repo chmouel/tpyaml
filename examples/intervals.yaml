@@ -1,0 +1,31 @@
+---
+description: |
+  5 minutes Z1, 5 minutes Z2, 7 x (1 minute Z4/2 minutes Z1) 5 minutes Z1
+
+comments: |
+  Perhaps do this on a race track, going around and around exhausting yourself
+  is every litle girls or boys dream.
+
+steps:
+  - type: warmup
+    duration: 15mn
+    targetPaceMin: 60
+    targetPaceMax: 76
+
+  - type: repetition
+    time: 3
+    steps:
+      - type: active
+        duration: 2mn30
+        targetPaceMin: 102
+        targetPaceMax: 115
+
+      - type: cooldown
+        duration: 5mn
+        targetPaceMin: 60
+        targetPaceMax: 76
+
+  - type: cooldown
+    duration: 7mn
+    targetPaceMin: 60
+    targetPaceMax: 76

@@ -1,0 +1,23 @@
+---
+description: |
+  1 mile Run Zone 1, 8.5 miles Run Zone 2, 0.5 mile Run Zone 1
+
+comments: |
+  Get yourself a nice group of running friends and enjoy the long miles
+  together.
+
+steps:
+  - type: warmup
+    distance: 1mi
+    targetPaceMin: 60
+    targetPaceMax: 76
+
+  - type: active
+    distance: 8.50mi
+    targetPaceMin: 76
+    targetPaceMax: 87
+
+  - type: cooldown
+    distance: 1mi
+    targetPaceMin: 60
+    targetPaceMax: 76

@@ -1,0 +1,23 @@
+---
+description: |
+  15 minutes Z1, 3 x (2.5 minutes Z4/5 minutes Z1) 7 minutes Z1
+
+comments: |
+  Stay easy when we tell you to rest you rest!!! don't be that gal/guy trying to
+  outsmart the trainer by going faster.
+
+steps:
+  - type: warmup
+    duration: 5mn
+    targetPaceMin: 60
+    targetPaceMax: 76
+
+  - type: active
+    duration: 35mn
+    targetPaceMin: 76
+    targetPaceMax: 87
+
+  - type: cooldown
+    duration: 5mn
+    targetPaceMin: 60
+    targetPaceMax: 76
